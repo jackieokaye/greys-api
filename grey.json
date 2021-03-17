@@ -1,0 +1,70 @@
+{
+    "grey's": [
+    {
+        "id": 0,
+        "name": "Meredith Grey",
+        "birthday": "1978",
+        "occupation": 
+            "Head of General Surgery ",
+        "img": " ",
+        "status": "Alive",
+        "nickname": ["Mer",
+                    "The Girl in the Bar",
+                    "Dirty Mistress",
+                    "Twisted Sister"
+                ],
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "actor": "Ellen Pompeo",
+        "category": "Grey's Anatomy"
+    },
+    {
+        "id": 1,
+        "name": "Derek Shepherd",
+        "birthday": "1966",
+        "occupation": 
+            "Head of Neuro",
+        "img": " ",
+        "status": "Decease- March 26, 2015",
+        "nickname": ["McDreamy",
+                    "The Guy in the Bar"
+                ],
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            13,
+            15,
+            17
+        ],
+        "actor": "Patrick Dempsey",
+        "category": "Grey's Anatomy"
+    }
+    ]
+
+}
